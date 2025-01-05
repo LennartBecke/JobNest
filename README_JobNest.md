@@ -3,7 +3,7 @@ Hallo,
 da ein exportierter-Code von einer Wordpress-Seite wenig Einblicke über die Gestaltung der WebApp gibt, ist es nützlicher sich die WebApp im Wordpress-Adminbereich anzusehen. 
 
 Hierfür bitte diesen Link aufrufen: 
-http://18.196.162.152/login/
+http://18.196.162.152/wp-admin
 
 Die Anmeldedaten befinden sich in der "Zugangsdaten-Datei", die seperat in Teams hochgeladen wurde.
 
