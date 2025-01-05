@@ -7,6 +7,9 @@ http://18.196.162.152/wp-admin
 
 Die Anmeldedaten befinden sich in der "Zugangsdaten-Datei", die seperat in Teams hochgeladen wurde.
 
+Hier ist der Link zu der WebApp: 
+http://18.196.162.152/
+
 Nun kann man sich einerseits mit dem „Customizer“ den Aufbau der Website ansehen:
 
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/7c650224-3668-4e63-acf6-63fb38f096a3" />
